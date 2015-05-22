@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1412516926 source:/home/tamim/Documents/codeforces/bayanwarmup14/B/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

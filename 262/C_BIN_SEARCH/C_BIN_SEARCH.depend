@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1408638373 source:/home/tamim/Documents/codeforces/262/C_BIN_SEARCH/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

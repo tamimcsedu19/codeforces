@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1387391566 source:/home/tamim/Documents/codeforces/220/A/main.cpp
+	<iostream>
+	<limits.h>
+	<set>
+

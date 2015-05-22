@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1409395374 source:/home/tamim/Documents/codeforces/264/C/main.cpp
+	<stdio.h>
+	<string.h>
+	<algorithm>
+	<vector>
+	<map>
+	<set>
+	<string>
+	<functional>
+	<bits/stdc++.h>
+

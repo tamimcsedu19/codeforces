@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1389979762 source:/home/tamim/Documents/codeforces/C/main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<algorithm>
+	<set>
+

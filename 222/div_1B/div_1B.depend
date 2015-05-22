@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1389706834 source:/home/tamim/Documents/codeforces/222/div_1B/main.cpp
+	<iostream>
+	<queue>
+	<algorithm>
+

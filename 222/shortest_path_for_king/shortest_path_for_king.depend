@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1389639385 source:/home/tamim/Documents/codeforces/222/shortest_path_for_king/main.cpp
+	<iostream>
+	<queue>
+	<string.h>
+

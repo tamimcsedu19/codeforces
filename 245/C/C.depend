@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1399909901 source:/home/tamim/Documents/codeforces/245/C/main.cpp
+	<cstdio>
+	<iostream>
+	<vector>
+	<cmath>
+	<algorithm>
+	<string>
+	<set>
+	<map>
+	<ctime>
+	<cstring>
+	<cassert>
+	<sstream>
+	<iomanip>
+	<complex>
+	<queue>
+	<functional>
+
